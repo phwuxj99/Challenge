@@ -1,0 +1,86 @@
+[
+  {
+    "PrincipalRegulator": "principal regulator 3",
+    "EffectiveDate": "2022-03-12T00:00:00",
+    "FirstName": "Fff name",
+    "LastName": "Lll  name",
+    "DriversLicense": 0,
+    "Vehicledetails": {
+      "Year": 2016,
+      "Model": "190 AUDI",
+      "Manufacturer": "Audi ",
+      "VehicleName": "Audi  abc"
+    },
+    "Address": "Calista Wise 7292 Dictum Av. San Antonio MI 47096 (492) 709-6392",
+    "ExpirationDate": "2025-12-10T00:00:00",
+    "Premium": 123.56
+  }
+][
+  {
+    "PrincipalRegulator": "principal regulator 1",
+    "EffectiveDate": "2021-12-01T00:00:00",
+    "FirstName": "Stephen",
+    "LastName": "Wu",
+    "DriversLicense": 0,
+    "Vehicledetails": {
+      "Year": 2019,
+      "Model": "A3",
+      "Manufacturer": "Audi",
+      "VehicleName": "Audi A3 1.8T Premium"
+    },
+    "Address": "Leilani Boyer 557-6308 Lacinia Road San Bernardino ND 09289 (570) 873-7090",
+    "ExpirationDate": "2025-01-12T00:00:00",
+    "Premium": 1200.56
+  }
+][
+  {
+    "PrincipalRegulator": "principal regulator 1",
+    "EffectiveDate": "2021-12-01T00:00:00",
+    "FirstName": "David",
+    "LastName": "Theieer",
+    "DriversLicense": 0,
+    "Vehicledetails": {
+      "Year": 2018,
+      "Model": "MDX",
+      "Manufacturer": "Acura ",
+      "VehicleName": "2018 Acura MDX w/Tech"
+    },
+    "Address": "Rahim Henderson 5037 Diam Rd. Daly City Ohio 90255 (453) 391-4650",
+    "ExpirationDate": "2026-02-12T00:00:00",
+    "Premium": 2200.56
+  }
+][
+  {
+    "PrincipalRegulator": "principal regulator 3",
+    "EffectiveDate": "2022-12-01T00:00:00",
+    "FirstName": "Noelle ",
+    "LastName": "Adams",
+    "DriversLicense": 0,
+    "Vehicledetails": {
+      "Year": 2018,
+      "Model": "5 Series 530i",
+      "Manufacturer": "BMW ",
+      "VehicleName": "2018 BMW 5 Series 530i"
+    },
+    "Address": "Noelle Adams 6351 Fringilla Avenue Gardena Colorado 37547 (559) 104-5475",
+    "ExpirationDate": "2023-02-12T00:00:00",
+    "Premium": 3200.56
+  }
+][
+  {
+    "PrincipalRegulator": "principal regulator 3",
+    "EffectiveDate": "2022-12-01T00:00:00",
+    "FirstName": "Adria ",
+    "LastName": "Russell",
+    "DriversLicense": 0,
+    "Vehicledetails": {
+      "Year": 1998,
+      "Model": "Hummer H1",
+      "Manufacturer": "AM General",
+      "VehicleName": "1998 AM General Hummer H1"
+    },
+    "Address": "Noelle Adams 6351 Fringilla Avenue Gardena Colorado 37547 (559) 104-5475",
+    "ExpirationDate": "2023-03-12T00:00:00",
+    "Premium": 1230.55
+  }
+]
